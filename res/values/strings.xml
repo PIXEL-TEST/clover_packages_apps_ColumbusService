@@ -35,7 +35,7 @@
     <string name="launch_app_default" translatable="false">none</string>
 
     <!-- Entry points in Settings -->
-    <string name="settings_entry_title">Quick Tap</string>
+    <string name="settings_entry_title">Quick Tap to start actions</string>
     <string name="settings_entry_summary_on">On / <xliff:g id="action" example="Take screenshot">%1$s</xliff:g></string>
     <string name="settings_entry_summary_off">Off</string>
     <string name="settings_search_keywords">Quick Tap, back tap, tap, gesture, assist, assistant</string>
